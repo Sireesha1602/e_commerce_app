@@ -1,0 +1,22 @@
+.merchantsignup Form{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    height: 80vh;
+}
+.merchantsignup
+{
+    background: url("");
+    background-position:center;
+    background-size: cover;
+    height:90vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.merchantsignup input,label{
+    margin: 10px 0px;
+}
+.merchantsignup input{
+    outline: none;
+    border-bottom: 2px;
+}
