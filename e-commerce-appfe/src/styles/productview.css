@@ -1,0 +1,20 @@
+.viewproducts marquee{
+  color:mediumorchid;
+  
+}
+.products{
+    display:flex;
+    align-items: center;
+    margin:10px;
+    border: 2px solid palevioletred;
+    border-radius: 5px;
+    padding:20px;
+}
+.products .view img{
+    height:200px;
+    width:300px;
+    margin-right: 50px;
+}
+.products .desc{
+    padding:0px 20px;
+}

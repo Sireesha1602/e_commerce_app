@@ -1,14 +1,10 @@
-*{
-    padding: 0px;
-    margin:0px;
-}
-.signup{
+.usersignup{
     background: url("../images/images\ \(1\).jpg");
     background-position:center;
     background-size: cover;
     height:100vh;
 }
-.signup input{
+.usersignup input{
     display: grid;
     grid-template-columns: 200px 200px;
     margin:20px;
@@ -20,7 +16,7 @@
     outline: none;
     border-radius: 4px;
 }
-.signup button{
+.usersignup button{
     width:200px;
     height:40px;
     position:relative;
@@ -29,11 +25,3 @@
     background-color: cadetblue;
     border-radius: 5px;;
 }
-.welcome{
-    color:red;
-    position: relative;
-    left: 100px;
-    top:50px;
-    
-}
-

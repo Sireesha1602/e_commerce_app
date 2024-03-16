@@ -1,5 +1,5 @@
 import {Link} from "react-router-dom";
-import '../styles/langingpage.css'
+import '../styles/landingpage.css'
 const LandingPage = () => {
     return ( 
         <div className="landingpage">
@@ -9,7 +9,7 @@ const LandingPage = () => {
               <p>Merchant</p>
             </Link>
             <Link to="/user">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgT5Ir9PuT1cmF-1ph0HaBbPF5HfMi8kunLw&usqp=CAU" alt="" />
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6a6KfKK66Jy1eCuDau7yp2rb5dIfGvl45g&usqp=CAU" alt="" />
                 <p>User</p>
             </Link>
         </div>

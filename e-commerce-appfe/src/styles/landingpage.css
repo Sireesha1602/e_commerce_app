@@ -1,0 +1,28 @@
+.landingpage{
+    background: url("https://www.shutterstock.com/image-photo/omni-channel-technology-online-retail-260nw-1564080871.jpg");
+    background-position: center;
+    background-size: cover;
+    height:90vh;
+
+   
+    
+}
+.landingpage img{
+   position: relative;
+   left:800px;
+   height: 200px;
+   width:200px;
+   margin-top: 50px;
+
+}
+.landingpage p{
+    position: relative;
+    left:800px;
+    text-decoration: none;
+    color:deeppink;
+    size: 15px;
+    
+}
+.landingpage img:hover{
+   transform: scale(1.2);
+}
