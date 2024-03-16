@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    
+    height:80px;
+    width:100%;
+    background-color: darkcyan;
+
+}
+.navbar h3{
+    color: magenta;
+    padding:100px;
+}

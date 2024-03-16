@@ -1,0 +1,27 @@
+.userlogin{
+    background: url(https://c8.alamy.com/comp/2J138JP/concept-of-login-with-icons-on-blurred-dark-background-2J138JP.jpg);
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+}
+.form{
+    height: 400px;
+    width:400px;
+    position: relative;
+    left:300px;
+    top:100px;
+    padding:50px;
+    border: 3px black solid; 
+    border-color:black; 
+    border-radius: 5px;
+}
+.form label{
+    color: indianred;
+    
+}
+.form p{
+    position: relative;
+    left:130px;
+    top:20px;
+    color:rgb(14, 14, 87);
+}

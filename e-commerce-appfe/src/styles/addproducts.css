@@ -1,0 +1,16 @@
+.addproduct form{
+    display:grid;
+    grid-template-columns: 200px 200px;
+    margin:50px 300px;
+    
+
+}
+.addproduct label,input{
+    margin:5px;
+}
+.addproduct input{
+    border: none;
+    border-bottom: 4px solid lightblue;
+    border-radius: 3px;
+    outline: none;
+}
